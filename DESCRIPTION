@@ -1,15 +1,14 @@
 Package: ETGC
 Type: Package
-Title: What the Package Does (Title Case)
+Title: EcoTroph model for Climate Change
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Vianney Guibourg de Luzinais & Hubert du Pontavice
+Maintainer: Hubert du Pontavice <hubert.dupontavice@princeton.edu>
+Description: EcoTroph model in a theoretical unexploited ecosystem and analyse climate change effects
+License: GPLv3
 Encoding: UTF-8
 LazyData: true
-Imports: dplyr,
+Imports: dplyr
 Requires:
 Suggests:
 Depends:
